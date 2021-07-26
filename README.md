@@ -4,7 +4,7 @@
 
 <h1 align="center">Night Storm for <a href="https://insomnia.rest/">Insomnia</a></h1>
 
-A dark theme for **Insomnia** better for your eyes
+A dark theme for **Insomnia** made with ❤️
 
 ## Screenshot
 ![Screenshot](./images/screenshot.png)
