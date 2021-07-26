@@ -4,9 +4,7 @@
 
 <h1 align="center">Night Storm for <a href="https://insomnia.rest/">Insomnia</a></h1>
 
-A clean, dark **Insomnia** theme that celebrates the lights of Downtown Tokyo at night.
-
-Check the wonderful original theme by [@enkia](https://github.com/enkia/) for [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+A dark theme for **Insomnia** better for your eyes
 
 ## Screenshot
 ![Screenshot](./images/screenshot.png)
