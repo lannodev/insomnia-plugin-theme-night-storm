@@ -27,9 +27,10 @@
     "type": "git",
     "url": "git+https://github.com/luciano-work/insomnia-plugin-theme-night-storm.git"
   },
-  "author": "",
+  "author": "Luciano Oliveira",
   "bugs": {
     "url": "https://github.com/luciano-work/insomnia-plugin-theme-night-storm/issues"
   },
-  "homepage": "https://lanno.me"
+  "homepage": "https://lanno.me",
+  "devDependencies": {}
 }
