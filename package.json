@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-theme-night-storm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Night Storm Theme. A dark theme for Insomnia made with love",
   "license": "MIT",
   "main": "index.js",
@@ -31,6 +31,6 @@
   "bugs": {
     "url": "https://github.com/luciano-work/insomnia-plugin-theme-night-storm/issues"
   },
-  "homepage": "https://lanno.me",
+  "homepage": "https://lanno.dev",
   "devDependencies": {}
 }
