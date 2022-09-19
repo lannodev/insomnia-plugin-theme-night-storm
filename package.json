@@ -1,6 +1,6 @@
 {
     "name": "insomnia-plugin-theme-night-storm",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Night Storm Theme. A dark theme for Insomnia made with love",
     "license": "MIT",
     "main": "index.js",
