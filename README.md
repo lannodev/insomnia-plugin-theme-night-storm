@@ -3,12 +3,14 @@
 </p>
 <h1 align="center">Night Storm for <a href="https://insomnia.rest/">Insomnia</a></h1>
 
-<!-- <p align="center">
-<a href="https://www.npmjs.com/package/insomnia-plugin-theme-night-storm"><img src="https://img.shields.io/npm/v/ngx-pipes.svg?style=flat-square" alt="npm"></a>
-<a href="https://www.npmjs.com/package/insomnia-plugin-theme-night-storm"><img src="https://img.shields.io/npm/dm/ngx-pipes.svg?style=flat-square" alt="npm"></a>
-<a href="https://www.npmjs.com/package/insomnia-plugin-theme-night-storm"><img src="https://img.shields.io/npm/dt/ngx-pipes?style=flat-square" alt="npm"></a>
-<a href="https://github.com/luciano-work/insomnia-plugin-theme-night-storm/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="MIT licensed"></a>
-</p> -->
+<p align="center">
+  <a href="https://github.com/luciano-work/insomnia-plugin-theme-night-storm" target="_blank">
+    <img alt="github stars" src="https://img.shields.io/github/stars/luciano-work/insomnia-plugin-theme-night-storm.svg?style=for-the-badge&labelColor=24283b&color=6366f1" />
+  </a>
+  <a href="https://www.npmjs.com/package/insomnia-plugin-theme-night-storm" target="_blank">
+    <img alt="npm downloads" src="https://img.shields.io/npm/dm/insomnia-plugin-theme-night-storm.svg?style=for-the-badge&labelColor=24283b&color=6366f1" />
+  </a>
+</p>
 
 
 
