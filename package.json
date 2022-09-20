@@ -1,41 +1,42 @@
 {
-    "name": "insomnia-plugin-theme-night-storm",
-    "version": "0.0.5",
+  "name": "insomnia-plugin-theme-night-storm",
+  "version": "1.0.0",
+  "description": "Night Storm Theme. A dark theme for Insomnia made with love",
+  "license": "MIT",
+  "main": "index.js",
+  "insomnia": {
+    "name": "theme-night-storm",
+    "displayName": "Night Storm Theme",
     "description": "Night Storm Theme. A dark theme for Insomnia made with love",
-    "license": "MIT",
-    "main": "index.js",
-    "insomnia": {
-        "name": "theme-night-storm",
-        "displayName": "Night Storm Theme",
-        "description": "Night Storm Theme. A dark theme for Insomnia made with love",
-        "images": {
-            "icon": "images/icon.png",
-            "cover": "images/screenshot.png"
-        },
-        "publisher": {
-            "name": "Luciano Oliveira"
-        }
+    "images": {
+      "icon": "images/icon.png",
+      "cover": "images/screenshot.png"
     },
-    "keywords": [
-        "night-storm",
-        "night",
-        "storm",
-        "theme",
-        "insomnia",
-        "insomnia-plugin"
-    ],
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/luciano-work/insomnia-plugin-theme-night-storm.git"
-    },
-    "author": "Luciano Oliveira",
-    "bugs": {
-        "url": "https://github.com/luciano-work/insomnia-plugin-theme-night-storm/issues"
-    },
-    "homepage": "https://lanno.dev",
-    "unlisted": false,
-    "devDependencies": {}
+    "publisher": {
+      "name": "Luciano Oliveira",
+      "icon": "https://avatars.githubusercontent.com/u/12519008?v=4"
+    }
+  },
+  "keywords": [
+    "night-storm",
+    "night",
+    "storm",
+    "theme",
+    "insomnia",
+    "insomnia-plugin"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luciano-work/insomnia-plugin-theme-night-storm.git"
+  },
+  "author": "Luciano Oliveira",
+  "bugs": {
+    "url": "https://github.com/luciano-work/insomnia-plugin-theme-night-storm/issues"
+  },
+  "homepage": "https://github.com/luciano-work/insomnia-plugin-theme-night-storm",
+  "unlisted": false,
+  "devDependencies": {}
 }
